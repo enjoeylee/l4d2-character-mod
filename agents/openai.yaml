@@ -1,0 +1,4 @@
+interface:
+  display_name: "求生之路2人物mod制作"
+  short_description: "从教程证据制作求生之路2幸存者模型、表情、手模与材质"
+  default_prompt: "使用 $l4d2-character-mod 检查当前人物工程，依据已审核教程完成对应的幸存者 MOD 制作步骤。"
